@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="724676f2-112f-49fe-8a4b-b89e0d51758b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1aBtKhCwDg5c9R5VcB03ehYfFw0" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager" selected="Python.readanddo">
+    <configuration name="javaenvsimulation" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$USER_HOME$/.conda/envs/cloudspeech_demo_added.py/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/javaenvsimulation.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="readanddo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$USER_HOME$/.conda/envs/untitled/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/readanddo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="trafficphaseoutput" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$USER_HOME$/.conda/envs/cloudspeech_demo_added.py/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/trafficphaseoutput.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.javaenvsimulation" />
+      <item itemvalue="Python.trafficphaseoutput" />
+      <item itemvalue="Python.readanddo" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.readanddo" />
+        <item itemvalue="Python.trafficphaseoutput" />
+        <item itemvalue="Python.javaenvsimulation" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="724676f2-112f-49fe-8a4b-b89e0d51758b" name="Default Changelist" comment="" />
+      <created>1586220753125</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586220753125</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="128" y="73" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586287936711">
+      <screen x="47" y="23" width="1233" height="777" />
+    </state>
+    <state x="127" y="73" key="#com.intellij.execution.impl.EditConfigurationsDialog/46.23.1234.777@46.23.1234.777" timestamp="1586286496137" />
+    <state x="128" y="73" key="#com.intellij.execution.impl.EditConfigurationsDialog/47.23.1233.777@47.23.1233.777" timestamp="1586287936711" />
+    <state width="1213" height="197" key="GridCell.Tab.0.bottom" timestamp="1586299091284">
+      <screen x="47" y="23" width="1233" height="777" />
+    </state>
+    <state width="1213" height="197" key="GridCell.Tab.0.bottom/46.23.1234.777@46.23.1234.777" timestamp="1586286516132" />
+    <state width="1213" height="197" key="GridCell.Tab.0.bottom/47.23.1233.777@47.23.1233.777" timestamp="1586299091284" />
+    <state width="1213" height="197" key="GridCell.Tab.0.center" timestamp="1586299091284">
+      <screen x="47" y="23" width="1233" height="777" />
+    </state>
+    <state width="1213" height="197" key="GridCell.Tab.0.center/46.23.1234.777@46.23.1234.777" timestamp="1586286516131" />
+    <state width="1213" height="197" key="GridCell.Tab.0.center/47.23.1233.777@47.23.1233.777" timestamp="1586299091284" />
+    <state width="1213" height="197" key="GridCell.Tab.0.left" timestamp="1586299091284">
+      <screen x="47" y="23" width="1233" height="777" />
+    </state>
+    <state width="1213" height="197" key="GridCell.Tab.0.left/46.23.1234.777@46.23.1234.777" timestamp="1586286516130" />
+    <state width="1213" height="197" key="GridCell.Tab.0.left/47.23.1233.777@47.23.1233.777" timestamp="1586299091284" />
+    <state width="1213" height="197" key="GridCell.Tab.0.right" timestamp="1586299091284">
+      <screen x="47" y="23" width="1233" height="777" />
+    </state>
+    <state width="1213" height="197" key="GridCell.Tab.0.right/46.23.1234.777@46.23.1234.777" timestamp="1586286516132" />
+    <state width="1213" height="197" key="GridCell.Tab.0.right/47.23.1233.777@47.23.1233.777" timestamp="1586299091284" />
+  </component>
+</project>

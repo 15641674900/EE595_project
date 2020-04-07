@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9fea3cc7-8d4d-4a2b-82ae-17bf6c187030" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZsHAfVWRftNzUPevPQg9EHPG6P" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources/SignalPhases" />
+    <property name="settings.editor.selected.configurable" value="editing.templates" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources/SignalPhases" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="aim4.Main" />
+      <module name="AIM4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="aim4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9fea3cc7-8d4d-4a2b-82ae-17bf6c187030" name="Default Changelist" comment="" />
+      <created>1585621053202</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585621053202</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="477" y="114" key="#com.intellij.ide.util.MemberChooser" timestamp="1585809263023">
+      <screen x="47" y="23" width="1233" height="777" />
+    </state>
+    <state x="477" y="114" key="#com.intellij.ide.util.MemberChooser/47.23.1233.777@47.23.1233.777" timestamp="1585809263023" />
+    <state x="402" y="145" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1585879099423">
+      <screen x="47" y="23" width="1233" height="777" />
+    </state>
+    <state x="402" y="145" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/47.23.1233.777@47.23.1233.777" timestamp="1585879099423" />
+    <state x="213" y="23" key="#org.jetbrains.kotlin.idea.refactoring.safeDelete.KotlinOverridingDialog" timestamp="1585628993268">
+      <screen x="47" y="23" width="1233" height="777" />
+    </state>
+    <state x="213" y="23" key="#org.jetbrains.kotlin.idea.refactoring.safeDelete.KotlinOverridingDialog/47.23.1233.777@47.23.1233.777" timestamp="1585628993268" />
+    <state width="1190" height="2" key="GridCell.Tab.0.bottom" timestamp="1585879631595">
+      <screen x="47" y="23" width="1233" height="777" />
+    </state>
+    <state width="1190" height="2" key="GridCell.Tab.0.bottom/47.23.1233.777@47.23.1233.777" timestamp="1585879631595" />
+    <state width="1190" height="2" key="GridCell.Tab.0.center" timestamp="1585879631594">
+      <screen x="47" y="23" width="1233" height="777" />
+    </state>
+    <state width="1190" height="2" key="GridCell.Tab.0.center/47.23.1233.777@47.23.1233.777" timestamp="1585879631594" />
+    <state width="1190" height="2" key="GridCell.Tab.0.left" timestamp="1585879631593">
+      <screen x="47" y="23" width="1233" height="777" />
+    </state>
+    <state width="1190" height="2" key="GridCell.Tab.0.left/47.23.1233.777@47.23.1233.777" timestamp="1585879631593" />
+    <state width="1190" height="2" key="GridCell.Tab.0.right" timestamp="1585879631594">
+      <screen x="47" y="23" width="1233" height="777" />
+    </state>
+    <state width="1190" height="2" key="GridCell.Tab.0.right/47.23.1233.777@47.23.1233.777" timestamp="1585879631594" />
+    <state x="165" y="30" key="SettingsEditor" timestamp="1585805806386">
+      <screen x="47" y="23" width="1233" height="777" />
+    </state>
+    <state x="165" y="30" key="SettingsEditor/47.23.1233.777@47.23.1233.777" timestamp="1585805806386" />
+    <state x="195" y="146" key="caller.chooser.dialog" timestamp="1585879252466">
+      <screen x="47" y="23" width="1233" height="777" />
+    </state>
+    <state x="195" y="146" key="caller.chooser.dialog/47.23.1233.777@47.23.1233.777" timestamp="1585879252466" />
+    <state x="341" y="224" key="com.intellij.ide.util.TipDialog" timestamp="1585787766772">
+      <screen x="47" y="23" width="1233" height="777" />
+    </state>
+    <state x="341" y="224" key="com.intellij.ide.util.TipDialog/47.23.1233.777@47.23.1233.777" timestamp="1585787766772" />
+    <state x="329" y="124" width="670" height="676" key="search.everywhere.popup" timestamp="1585805803921">
+      <screen x="47" y="23" width="1233" height="777" />
+    </state>
+    <state x="329" y="124" width="670" height="676" key="search.everywhere.popup/47.23.1233.777@47.23.1233.777" timestamp="1585805803921" />
+  </component>
+</project>
